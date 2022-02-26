@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the knights, citizens, and burgesses of the Commons House in Parliament now assembled the humble, a, petition of Iohn, b, Salvin in the county of Durham, gent.</title>
+            <author>Salvin, John, 1621 or 2-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71065</idno>
+            <idno type="STC">Wing S520</idno>
+            <idno type="STC">ESTC R15633</idno>
+            <idno type="EEBO-CITATION">12598443</idno>
+            <idno type="OCLC">ocm 12598443</idno>
+            <idno type="VID">64082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E138, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the knights, citizens, and burgesses of the Commons House in Parliament now assembled the humble, a, petition of Iohn, b, Salvin in the county of Durham, gent.</title>
+                  <author>Salvin, John, 1621 or 2-1672.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.  The letters a and b within commas refer to notes at end.</note>
+                  <note>"Against John Cosin, [later] bishop of Durham, accused of assisting Roman Catholics."</note>
+                  <note>Includes another petition of Salvin, stating that he "did contribute with the inhabitants of the county of Durham ... towards the maintenance of our brethren the Scots, during their abode" at Ripon and asking the House of Commons" to repay ... [him] in this time of great need."</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cosin, John, 1594-1672.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64082:1"/>
+            <pb facs="tcp:64082:1" rendition="simple:additions"/>
+            <p>A MESSAGE Sent from both Houſes of Par<g ref="char:EOLhyphen"/>liament to the Kings moſt excellent Majeſty, the 16 of <hi>March</hi> 1641, Concerning ſpeciall matters.</p>
+            <figure>
+               <q>IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Iohn Franke,</hi> and are to be ſold at his ſhop next doore to the Kings head in <hi>Fleetſtreet,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64082:2"/>
+            <pb n="1" facs="tcp:64082:2"/>
+            <opener>
+               <salute>May it pleaſe your Majeſty.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt humble and faithfull Subjects, the Knights, Citizens, and Bur<g ref="char:EOLhyphen"/>geſſes of the Commons Houſe of Parliament, having conſide<g ref="char:EOLhyphen"/>red your Majeſties Reply to their Anſwer, touching ſuch perſons as have beene licenced by your Majeſtie to paſſe into <hi>Ireland,</hi> doe moſt humbly beſeech your Majeſtie to believe, that they ſhall always with thankfulnes and joy receive from your Majeſty and ſatisfactory Anſwer to their juſt requeſts: And, as they hope, they ſhall finde in your Majeſty a readineſſe to rectifie thoſe things, which have beene done to their prejudice, ſo will they bee carefull to remove all apprehenſions of their Actions or Speeches, which may ſeeme to caſt any diſhonour upon your Majeſty.</p>
+            <p>For your Majeſties better ſatisfaction concern<g ref="char:EOLhyphen"/>ing the poſitive affirmation, that many of the chief Commanders now in the head of the Rebels (af<g ref="char:EOLhyphen"/>ter the Ports were ſtopped by order of both hou<g ref="char:EOLhyphen"/>ſes) have been ſuffered to paſſe by your Majeſties immediate warrant. May it pleaſe your Majeſty to conſider that herein they have affirmed nothing
+<pb n="2" facs="tcp:64082:3"/>but what they had cauſe to believe was true, the grounds whereof they humbly preſent to your Majeſty.</p>
+            <p>The firſt ground is this, that both Houſes of Par<g ref="char:EOLhyphen"/>liament, (having upon your Majeſties commen<g ref="char:EOLhyphen"/>dation taken into their care the ſuppreſſion of the Rebellion of <hi>Ireland</hi>) had reaſon to be eſpeci<g ref="char:EOLhyphen"/>ally watchfull over the Ports, becauſe the Re<g ref="char:EOLhyphen"/>bels abounding in numbers of men for the moſt part ignorant of the uſe of their Armes could by no means become dangerous or formidable to this Kingdome, but by the acceſſe of Souldiers and Commanders, wherewith they were like to be furniſhed either out of <hi>France</hi> or <hi>Planders,</hi> from both which places the paſſage into <hi>Ireland</hi> is ſpeedy and eaſie through this Kingdome, and thereof they could not chuſe but be very ſenſible of whatſoever gave liberty or opportunitie to ſuch a paſſage, as of a very hurtfull and dangerous grie<g ref="char:EOLhyphen"/>vance, for prevention whereof they did upon the ſeventh of <hi>November</hi> agree upon an Order and re<g ref="char:EOLhyphen"/>ſtrain all paſſage into <hi>Ireland,</hi> but upon due and ſtrict examination by ſuch perſons as were truſted to make thoſe Licences.</p>
+            <p>A ſecond ground that the other Licence granted to the Lord <hi>Delvin,</hi> and then acknowledged by your Majeſties Anſwer, were ſuch (both in regard of the perſons to whom they were granted, and the extent of the words in which they were granted,) as were apt to produce ſuch an effect as is men<g ref="char:EOLhyphen"/>tioned in that poſitive Affirmation, that is, to
+<pb n="3" facs="tcp:64082:3"/>open away for the paſſage of Papiſts and other dan<g ref="char:EOLhyphen"/>gerous perſons to joyne with the Rebels, and to bee Heads and Commanders amongſt them, which is thus proved.</p>
+            <p>The Warrant granted to Colonell <hi>Butler,</hi> (ſince the order of reſtraint by both Houſes of Parliament) did extend to all Ports of <hi>England</hi> and <hi>Scotland,</hi> and did giue free paſſage to himſelfe and to his Company, without any qualification of perſons, or Limitation of Number, and this Colonell was himſelfe a Papiſt, had a Brother in Rebellion, and Generall of the Re<g ref="char:EOLhyphen"/>bels in <hi>Munſter,</hi> was expected, and very much deſired by thoſe Rebels, who for a long time kept a Regi<g ref="char:EOLhyphen"/>ment to be commanded by him, as we have beene cre<g ref="char:EOLhyphen"/>dibly informed.</p>
+            <p>The ſecond was granted to a Sonne of the Lord <hi>Nettersfield,</hi> which Lord had foure ſonnes in <hi>England</hi> ſince the Rebellion, one of which is ſettled in <hi>England,</hi> three others intended to paſſe into <hi>Ireland,</hi> and were all dangerous perſons being Papiſts, bred in the Wars, in the ſervice of the King of <hi>Spaine,</hi> and one of them lately become a Jeſuit.</p>
+            <p>The third to the Lord <hi>Delvin</hi> extends to himſelfe, and foure perſons more unnamed, that one of thoſe who ſhould have paſt with him is taken to bee a Je<g ref="char:EOLhyphen"/>ſuite, and another who calls himſelfe <hi>Ploncket,</hi> ſeems to be a man of ſome breeding and quality, and like to have beene ſerviceable to the Rebels, and to have done miſchiefe, if he had gone over.</p>
+            <p>The fourth to Sir <hi>George Hamilton,</hi> and three more unnamed; This Gentleman is likewiſe a profeſt Pa<g ref="char:EOLhyphen"/>piſt, and may be doubted to be of the partie of the
+<pb n="4" facs="tcp:64082:4"/>Rebels, one of that Name being mentioned in the inſtructions of <hi>Sempill</hi> the Jeſuit, amongſt divers o<g ref="char:EOLhyphen"/>ther dangerous perſons of the popiſh party in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> which inſtructions were found in a ſhip ſtayed in <hi>Cornwall,</hi> which was going into <hi>Ireland</hi> with divers Jeſuits, ſouldiers, and others for the in<g ref="char:EOLhyphen"/>couragement of the Rebels.</p>
+            <p>A third ground is this, That by vertue and Autho<g ref="char:EOLhyphen"/>rity of theſe Licences, ſeverall perſons have paſſed over, which are now in Actuall Rebellion, and Joyned with the Rebels, and ſome have command amongſt them which is thus proved.</p>
+            <p>One Captaine <hi>Sutton,</hi> did by vertue and Authori<g ref="char:EOLhyphen"/>ty of your Majeſties Licence imbarque at <hi>White-ha<g ref="char:EOLhyphen"/>ven,</hi> in the Coompany of Colonel <hi>Butler,</hi> and was driven backe by foule weather; Whereupon the Co<g ref="char:EOLhyphen"/>lonell ſtayed, and went to <hi>Cheſter,</hi> but that Captaine reimbarqued himſelfe in the ſame Bottome, and paſ<g ref="char:EOLhyphen"/>ſed into <hi>Ireland,</hi> where he went into Rebellion with the Lord <hi>Dunſany,</hi> and hath ſince obtained the place of a Colonell amongſt the Rebels, as we are very cre<g ref="char:EOLhyphen"/>dibly informed.</p>
+            <p>Two of the Sonnes of the Lord <hi>Nettersfield,</hi> one a Jeſuite, and the other a Souldier, paſſed into <hi>Ireland</hi> in December laſt, both of them by vertue of your Majeſtes Warrant, as we have cauſe to beleeve, for that they went both together in one Ship, and the Licence acknowledged to be granted by your War<g ref="char:EOLhyphen"/>rant muſt needs be granted to one of them, ſeeing the other Brother, who lately endevoured to paſſe over, did produce no Licence, and upon his Examination
+<pb n="5" facs="tcp:64082:4"/>doth abſolutely deny that he had any.</p>
+            <p>A fourth ground (which we humbly offer to your Majeſty) is this, That your Majeſty cannot be aſſured that no other did paſſe upon your Licence, as your Majeſty doth conceive, and are pleaſed to expreſſe in your Anſwer, and that we had great cauſe to beleeve that divers other had paſſed over by your Warrant, beſides the perſons afore-mentioned, and that for theſe reaſons;</p>
+            <p n="1">1. Becauſe we received ſuch a generall Informati<g ref="char:EOLhyphen"/>on, that divers now in the head of the Rebels were paſſed by your Majeſties Licence, which being true in part, and eaſie <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be effected, in regard of the Na<g ref="char:EOLhyphen"/>ture and extent of the Warrants, and probable to be attempted, in regard of the ſubtilty and vigilancie of that party, to make uſe of all advantages, ſeemed to deſerve credit, which we ſhould not have given to it, if it had beene a naked information without ſuch cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <p n="2">2. Becauſe wee had concurring Advertiſements from <hi>Ireland</hi> and <hi>Cheſter,</hi> that divers Prieſts, Jeſuites, and popiſh Commanders had paſſed ouer, and were landed there, and particularly ſome of Colonell <hi>But<g ref="char:EOLhyphen"/>lers</hi> Company, and that the Officers of the Ports had kept no Entrie of the names of theſe perſons, or of the Warrants by which they were tranſported.</p>
+            <p>Theſe we hope will be ſufficient to perſwade your Majeſty to beleeve, that as we had ſome cauſe to give
+<pb n="6" facs="tcp:64082:5"/>credit to the ſaid Informations, ſo we had no intenti<g ref="char:EOLhyphen"/>on to make any ill uſe of them to your Majeſties diſ<g ref="char:EOLhyphen"/>honour, but did impute the blame to your Miniſters, who might have beene more carefull to have infor<g ref="char:EOLhyphen"/>med your Majeſtie of the Quality of thoſe perſons named in your Licences, and ſo to have limited them, that they might not have extended to others, as they did, how many and dangerous ſoever.</p>
+            <p>And they pray your Majeſty to reſt aſſured, that they ſhall alwayes be tender of your Honour and re<g ref="char:EOLhyphen"/>putation with your good Subjects, and for this cauſe have made this true Declaration of the full ſtate of this matter, that they may thinke no otherwiſe of it then the truth, &amp; in all things ſhall labour to eſtabliſh a good underſtanding and confidence, betwixt your Majeſtie, and your people, which they heartily de<g ref="char:EOLhyphen"/>ſire, and pray for, as the chiefeſt meanes of pre<g ref="char:EOLhyphen"/>ſerving the Honour, ſafetie, and proſpe<g ref="char:EOLhyphen"/>rity of your Majeſtie, and your Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:64082:5" rendition="simple:additions"/>
+            <head>To the Knights, Citizens, and Burgeſſes of the Commons Houſe in Parliament now aſſembled.</head>
+            <head type="sub">The humble <hi>(a)</hi> Petition of <hi>Iohn (b) Salvin</hi> in the County of Durham, Gent.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas the Inhabitants of ſeverall Counties have by petition to this Honourable Houſe made knowne theirs and the Kingdoms grievances, your Petitioner (though but a private member of the Common<g ref="char:EOLhyphen"/>wealth) ſuffering in like manner, moſt humbly addreſſeth himſelfe to this Honourable Aſſembly, for that his private injuries are not onely to himſelfe, but have relation to the publique, as by the ſequele will appeare.</p>
+            <p>Your humble Petitioner having beene here at London nine moneths, foure in obedience to the <hi>(c)</hi> Houſe of Peers, the other five about his moſt neceſſary and urgent occaſi<g ref="char:EOLhyphen"/>ons, is now in great want and penury, occaſioned by ſome of his neareſt friends and familiar acquaintance who are <hi>(d)</hi> Papiſts, and of the moſt dangerous of that ſect in the County of Durham, yet through their wealth are counte<g ref="char:EOLhyphen"/>nanced in their unconſcionable wayes by the Biſhop of Durham his Officers, Doctor <hi>Couſins</hi> and others, <hi>(e)</hi> which Doctor <hi>Couſins</hi> had (and hath yet when hee reſideth in the County) reſort to Maſter <hi>George Collingwood</hi> of Dalden his houſe, a great Papiſt, and one of your Petitioners oppreſ<g ref="char:EOLhyphen"/>ſors,
+<pb facs="tcp:64082:6"/>and there had conference with his Prieſts, with whom he holdeth correſpondence. And the Biſhop not withſtan<g ref="char:EOLhyphen"/>ding he knoweth the houſes of <hi>(f)</hi> Dalden, Hebburne, Wal<g ref="char:EOLhyphen"/>worth, Thornley, Harbor houſe, and other places in the County, to be receptacles of Prieſts and Ieſuits, Nurſeries of Popery, and to be frequented by the Papiſts, in greater multitudes on their Saints dayes and Feſtivals, then divers Pariſh Churches in the County by the Proteſtants on the Lords day; yet never did nor yet doth take courſe (in theſe dangerous times) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o diſcover or ſuppreſſe them and in time of common danger did make <hi>(g)</hi> dep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Lieutenants of thoſe, whoſe wives he knew to be profeſt P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſts, and their children ſo educated and brought up. Neither doth the Biſhop wrong the County (onely) by his connivency and countenance to the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſts, but by his oppreſſions in im<g ref="char:EOLhyphen"/>poſing and gathering heavy and injurious aſſeſſements con<g ref="char:EOLhyphen"/>cerning the <hi>Militia,</hi> and other affaires of the County, great profits ariſing thereby to his <hi>(h)</hi> Officers and Servants, and in the exerciſing of his <hi>Ius Regale,</hi> the <hi>(i)</hi> Inhabitants of the County feele his heavy and oppreſſive hand.</p>
+            <p>That though the Biſhop knew your Petitioner and his children to ſuffer in his eſtate, and for <hi>(k)</hi> Religion ſake moſt unjuſtly, yet your Petitioners mother and uncle being rich Papiſts, found his favour, although the Biſhop expreſt himſelfe upon the hearing of their moſt unnaturall dealing againſt your Petitioner and his children<g ref="char:punc">▪</g> that his mother and uncle did not deſerve to have at their death Chriſtian buriall.</p>
+            <p>That your Petitioners life and liberty through inexpreſ<g ref="char:EOLhyphen"/>ſive griefe, penury, and want, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in danger, <hi>(l)</hi> his rents and preſent maintenance wrongfully detained, your Peti<g ref="char:EOLhyphen"/>tioners mother and uncle withholding from him beſides 120. pounds <hi>per annum,</hi> and hath damnified your Petitio<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:64082:6"/>3000. pounds and more, and doe <hi>(m)</hi> endeavour to get all his lands at a great undervalue, whereby your Petitio<g ref="char:EOLhyphen"/>ner and his children ſuffer under the extremity of want and neceſſity, becauſe he will not condiſcend to their cunning and undoing practices.</p>
+            <p>That although his complaints may ſeeme ſtrange to this Honourable Houſe, being of a Nephew againſt an Uncle, a Sonne againſt a Mother, yet their <hi>(n)</hi> ſtrange uſage of your Petitioner and his children, will plead your Petitio<g ref="char:EOLhyphen"/>ners juſt excuſe to your Honours, as he fully can make ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p>Your Petitioner therefore moſt humbly prayeth, for that he ſuffereth the ſaid injuries and oppreſſions by the ma<g ref="char:EOLhyphen"/>lignant party ſupported as aforeſaid, and hath repreſen<g ref="char:EOLhyphen"/>ted to your Honours nothing but what by his duty and the late Proteſtation hee ought to doe in the behalfe of the Church, King, and Common-wealth: That this Honourable and grave Aſſembly will bee pleaſed to re<g ref="char:EOLhyphen"/>gulate the ſaid dangerous enormities, by ſuppreſſing the aforeſaid <hi>(o)</hi> places and receptacles, which hitherto the Biſhop and his Officers have conniv'd at, and concealed, being places (as now the times are) knowne to be dan<g ref="char:EOLhyphen"/>gerous for entertaining Prieſts and Ieſuits, and their con<g ref="char:EOLhyphen"/>federates, to have often meetings, and more now then before. And that the Biſhop and his Officers may make reſtitution of the moneyes they have illegally levyed and taken, to the oppreſſion of the whole County; and that your Petitioner may have ſuch reliefe againſt his Uncle and Mother, as from your great wiſdomes and charities his crying neceſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies may ſeeme to plead for redreſſe; whereof he humbly waiteth, never ce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſing to pray for proſperity on your conſultations, &amp;c.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:64082:7"/>
+            <head>To the Honourable the HOUSE of Commons now in Parliament aſſembled.</head>
+            <head type="sub">The humble Petition of <hi>Iohn Salvin,</hi> Gent.</head>
+            <opener>Sheweth,</opener>
+            <p>THat in obedience to the agreement made by the Lords Comm ſſioners at R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppon in the County of Yorke, your Petitioner did contribute with the In<g ref="char:EOLhyphen"/>habitants of the County of Durham 21. pounds, 10. ſhil<g ref="char:EOLhyphen"/>lings for his proper part towards the maintenance of our brethren the Scots, during their abode there, which is part of the 26000. pounds that this Parliament was pleaſed to undertake the payment of, in November laſt.</p>
+            <p>That your Petitioner prefer'd his humble Petition to this Honourable Houſe for a reimburſement of thoſe mo<g ref="char:EOLhyphen"/>neys which he dutifully diſburſed for the Republique, up<g ref="char:EOLhyphen"/>on which Petition your Petitioner receiving this anſwer from ſome of the members of this Honourable Houſe, that it would open a gap (if condiſcended unto) to others to ſue for the like ſatisfaction, which according to the preſent neceſſity, the publique engagement could not afford. To which exceptions your Petitioner in all humility, and un<g ref="char:EOLhyphen"/>der your Honours favour, conceiveth theſe ſatisfactory reaſons in his behalfe.</p>
+            <p n="1">
+               <pb facs="tcp:64082:7"/>
+1. That the County in generall, having ſent up Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Lambton,</hi> Sir <hi>Thomas Riddell,</hi> Sir <hi>George Vane,</hi> Knights, and <hi>Thomas Daviſon</hi> Eſquire, in Decem<g ref="char:EOLhyphen"/>ber, to petition this Honourable Aſſembly in their behalfe, for repayment of the 26000. pounds, the publique neceſſities not affording it, reſts con<g ref="char:EOLhyphen"/>tented.</p>
+            <p n="2">2. That none of the Contributors of that County have occaſion in that deplorable way to preſſe upon your Honours for reliefe, as your Petitioner hath. Firſt, for that he is neceſſarily to be here in towne about his urgent affaires. Secondly, for that hee hath two daughters in London, the one newly come out of Ireland, in want, and out of ſervice, the other very weak and infirme, ſpitting blood, and not able to make ſervice, both of them with your Petitioner like to periſh for want of ſuſtenance.</p>
+            <p n="3">3. That in the ſtories of all Commonwealths, their be<g ref="char:EOLhyphen"/>nefactors have been found to have, if not reward, yet (in time of diſtreſſe) reliefe; wherefore your Petitioner doth humbly implore the Honourable Houſe of Commons to take pitty of him, and to repay your Petitioner in this his time of great need (for reliefe of him and his poore children) the moneyes hee (in duty) layd downe for the Common-good.</p>
+            <p>And he and they ſhall daily pray, &amp;c.</p>
+            <pb facs="tcp:64082:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64082:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="notes">
+            <pb facs="tcp:64082:9"/>
+            <p>
+               <hi>(a)</hi> Diſcovering, in the practiſes of the Biſhop of Durham, the hypocriſie and tyranny of the Prelates.</p>
+            <p>
+               <hi>(b)</hi> Diſcovering in his private ſufferings the preſent dan<g ref="char:EOLhyphen"/>gers and grievances of the County and the Kingdome.</p>
+            <p>
+               <hi>(c)</hi> As a witneſſe between Mr. <hi>Smart</hi> and Doctor <hi>Couſins,</hi> for which by the procurement of the Doctor and his Popiſh adhe<g ref="char:EOLhyphen"/>rents this Petitioner is highly maligned of his friends, with whom they being Papiſts, the Doctor ſideth.</p>
+            <p>
+               <hi>(d) Rebecca Salvin</hi> his mother, <hi>George Collingwood</hi> his uncle, <hi>Lancelot Holby:</hi> This <hi>George Collingwood</hi> is a very dangerous Papiſt, in great favour with the Biſhop, an agent for the Benedictines, and their Monaſteries, and was a collectour in our County for thoſe monies the Papiſts, by way of benevo<g ref="char:EOLhyphen"/>lence, gave the Queene, towards the maintenance of the wars againſt the Scots. This <hi>Lancelot Holby</hi> is a dangerous Papiſt, in favour with the Biſhop and his officers, and a Factour and A<g ref="char:EOLhyphen"/>gent for the Ieſuits and their Colledges beyond the ſeas, and doth ſue in their behalfe for monies &amp;c.</p>
+            <p>
+               <hi>(e)</hi> Doctor <hi>Couſins</hi> viewing the Altar at <hi>Dalden,</hi> being demanded by Mr. <hi>Collingwood</hi> what he thought thereof, made anſwer that if he had an auditory that did underſtand latine he would ſay Maſſe unto them, for he holdeth the Romans miſſall, and the new Service booke intended for Scotland, not to differ either in practiſe of Ceremony, or point of Doctrine. And Mr. <hi>Maxton</hi> a Prebend of the Church of <hi>Durham</hi> tooke a compari<g ref="char:EOLhyphen"/>ſon from a paire of bandſtrings, ſaying, there was no more diffe<g ref="char:EOLhyphen"/>rence betwixt the Service booke intended for <hi>Scotland,</hi> and the booke of Common praier, then if one paire of the ſtrings ſhould be but a haire breadth longer then the other.</p>
+            <p>
+               <hi>(f) Dalden</hi> and <hi>Hebborne</hi> are places neare and adjoining to the ſea, from whence are exported and imported Prieſts Ieſuits, Students, monies, bookes, or what be advantagious to the Pa<g ref="char:EOLhyphen"/>piſts.</p>
+            <pb facs="tcp:64082:9"/>
+            <p>
+               <hi>(g)</hi> Sir <hi>William Blaxton</hi> deceaſed. <hi>Gerard Salvin</hi>
+               <abbr>Eſq</abbr> living.</p>
+            <p>
+               <hi>(h)</hi> To Sir <hi>William Darcy</hi> at one time ſixty pound; to Mr. <hi>William Mallory</hi> one forty pound, and other monyes ſince; much monies to Mr. <hi>Thomas Laton,</hi> and <hi>William Friſeul.</hi>
+            </p>
+            <p>
+               <hi>(i) Rowland Place</hi> of <hi>Dinſdale</hi>
+               <abbr>Eſq</abbr> N. <hi>Cooke</hi> of <hi>Redmarſhall.</hi> The poore of <hi>Medridge.</hi>
+            </p>
+            <p>
+               <hi>(k)</hi> The petitioners mother being a Papiſt, preſently after his fathers death, took him from Saint <hi>Julians</hi> a Proteſtant Schoole in <hi>Harfordſhire,</hi> and ſent him beyond the ſeas to be brought up in popery, to which, being very young, hee was by farre words ſoone wonne, but having ſince diſcovered the falſehood and trea<g ref="char:EOLhyphen"/>chery of that religion, is become a true and ſincere Proteſtant, and hath converted all his children whom he ſo educateth, for which his mother denieth him and them that maintenance that ſhould come from naturall and loving parents.</p>
+            <p>
+               <hi>(l)</hi> By his tenant conſpiring with his Papiſt friends, who labour to buy his lands at a great undervalue, knowing the petiti<g ref="char:EOLhyphen"/>oner to be at a very low eb &amp; not able for the preſent to help him<g ref="char:EOLhyphen"/>ſelfe under an unjuſt pretence, to have a leaſe to be made to him by the petitioner for his life, will come to no account, nor let him have his lands.</p>
+            <p>
+               <hi>(m)</hi> Aſsiſted by <hi>Edward</hi> Wright the Counſellor at Law, who with them and the prieſt of <hi>Dalden,</hi> hath had meetings to that purpoſe, the petitioners mother and uncle having wonne <hi>Edward Wright</hi> by great fees and large gifts: my uncle holding this maxime never to faile. <hi>viz.</hi> That a man with money enough may prevaile, let his ſute be never ſo unjuſt, and may moreover wade through felony, murther and the like treaſon only excepted, in ſome of which he hath had ſucceſſe for himſelfe and others.</p>
+            <p>
+               <hi>(n)</hi> Knowne to the whole County, for which they are accoun<g ref="char:EOLhyphen"/>ted monſtruous.</p>
+            <p>
+               <hi>(o)</hi> Where <hi>Lancelot Holby,</hi> as I am credibly informed, holdeth ſuſpicious and dangerous meetings.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
